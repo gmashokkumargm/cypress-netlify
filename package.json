@@ -1,0 +1,24 @@
+{
+  "name": "talentspace",
+  "version": "1.0.0",
+  "description": "qa coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talentspace-EXT/coding-challenge-qa.git"
+  },
+  "author": "ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talentspace-EXT/coding-challenge-qa/issues"
+  },
+  "homepage": "https://github.com/Talentspace-EXT/coding-challenge-qa#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "typescript": "^4.7.4"
+  }
+}
